@@ -1,3 +1,3 @@
 # Automatic Speech Recognition
 
-Assignments done during the course and project work
+Assignment based on Kaldi Framework
